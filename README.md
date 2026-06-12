@@ -55,7 +55,7 @@ I am an aspiring tech professional with hands-on experience in server infrastruc
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect with Me 
 
 - [LinkedIn](https://www.linkedin.com/in/nadol-pattamaanupong-01493a177/)  
 - [GitHub](https://github.com/nadolpat)  
