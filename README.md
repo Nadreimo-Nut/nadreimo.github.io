@@ -10,7 +10,7 @@ I am an aspiring tech professional with hands-on experience in server infrastruc
 
 ## 🛠 Skills & Tools
 
-- **Infrastructure & Virtualization:** Proxmox VE, VMware ESXi, Docker, LXC, Linux (Ubuntu, Kali)  
+- **Infrastructure & Virtualization:** Proxmox VE, VMware ESXi, Docker, LXC, Linux (Redhat, Ubuntu, Kali)  
 - **IT & Networking:** LAN, Router & Switch configuration, Cisco Packet Tracer, LoRaWAN, DNS Management  
 - **Cybersecurity:** Penetration Testing, Server Hardening, Nmap, Metasploit, Nikto, Wazuh  
 - **Programming & Web:** HTML, CSS, JavaScript, Python, Lua  
